@@ -1,0 +1,9 @@
+class pokemonlab{
+    constructor(){
+
+    }
+    display(){
+        
+    }
+}
+
